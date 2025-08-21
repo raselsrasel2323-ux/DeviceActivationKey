@@ -23,5 +23,17 @@
         "expirydate": "25-08-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "31c385e88f0f4150",
+        "key": "habibur",
+        "expirydate": "25-08-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "ed44c79fc0db1907",
+        "key": "mukades",
+        "expirydate": "25-08-2025",
+        "Allowoffline": false
+    },
 ]
 
