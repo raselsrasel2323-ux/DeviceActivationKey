@@ -35,5 +35,11 @@
         "expirydate": "10-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "t77h",
+        "key": "m",
+        "expirydate": "10-09-2025",
+        "Allowoffline": false
+    },
 ]
 
