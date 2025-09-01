@@ -53,6 +53,12 @@
         "expirydate": "03-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "7op",
+        "key": "abrar",
+        "expirydate": "03-09-2025",
+        "Allowoffline": false
+    },
 ]
 
 
